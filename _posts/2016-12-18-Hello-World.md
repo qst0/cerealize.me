@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World!
 ---
-
-# Simplicity!
-
 I've been looking for a super easy way to get a blog up and running.
 I guess this has been a thing for awhile and I would have to say it's awesome.
 
