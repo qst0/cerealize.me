@@ -2,9 +2,6 @@
 layout: post
 title: Hello World!
 ---
-
-# Hello World!
-
 I've been looking for a super easy way to get a blog up and running.
 I guess this has been a thing for awhile and I would have to say it's awesome.
 
