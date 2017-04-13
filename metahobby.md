@@ -4,6 +4,8 @@ title: metahobby
 permalink: /metahobby/
 ---
 
+WHoo!
+
 Metahobby is the hobby hobby!
 What are you into? I want to know!
 
