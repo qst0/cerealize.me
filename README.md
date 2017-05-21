@@ -1,12 +1,11 @@
 #qst0
 
-Hello, I'm qst0--
-Mason Young
+This hasn't been updated in forever.
 
-I'm working on my project hub page using github pages.
+I made something like it, but a bit better at http://taut.tech
 
-This was based off a repo that I don't fully understand. I would rather blow this all up and start from a place where I can feel out all the details then this far down the line in the dark.
+I'll get back to this at some point, maybe make it a blog about my github or something.
 
-Thinking of a solution now...
-
-I still don't have a solution to this. But I need to focus on it and not just comment on it and leave it alone again.
+- [] Get back to this thing
+- [] Make it better
+- [x] Smile more
