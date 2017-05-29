@@ -1,4 +1,4 @@
-![grain]https://upload.wikimedia.org/wikipedia/commons/b/b3/Various_grains.jpg
+![grain](https://upload.wikimedia.org/wikipedia/commons/b/b3/Various_grains.jpg)
 This grain is insane.
 
 # Learning PHP
