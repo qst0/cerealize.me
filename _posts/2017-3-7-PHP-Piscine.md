@@ -1,4 +1,7 @@
-#Learning PHP
+![grain]https://upload.wikimedia.org/wikipedia/commons/b/b3/Various_grains.jpg
+This grain is insane.
+
+# Learning PHP
 
 For last week, and all this week- I'm learning PHP.
 The PHP piscine here is the first taste web, OOP, and databases in the 42 cursus.
