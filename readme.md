@@ -17,4 +17,4 @@ It would have to be super easy, and follow a formula.
 
 3. Picture please.
 
-And so, [I was ceralized](http://cerealize.me).
+And so, [I was cerealized](http://cerealize.me).
